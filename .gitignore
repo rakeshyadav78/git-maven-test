@@ -1,3 +1,2 @@
-*.classpath
-target\
-/target
+*.classpath:
+target
